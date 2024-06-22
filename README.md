@@ -13,6 +13,6 @@ I'm a passionate software developer working on several open-source projects. Wel
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ntua-el20614&layout=compact&theme=tokyonight)
 
 ## 📫 How to Reach Me:
-- Email: [email@example.com](mailto:chrisstyles318@gmail.com)
+- Email: [chrisstyles318@gmail.com](mailto:chrisstyles318@gmail.com)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/christodoulos-stylianides-33b079303)
 
