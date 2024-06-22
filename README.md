@@ -14,5 +14,5 @@ I'm a passionate software developer working on several open-source projects. Wel
 
 ## 📫 How to Reach Me:
 - Email: [chrisstyles318@gmail.com](mailto:chrisstyles318@gmail.com)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/christodoulos-stylianides-33b079303)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/christodoulos02)
 
